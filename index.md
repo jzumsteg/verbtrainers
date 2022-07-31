@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Verbtrainers
 layout: home
 description: Let Verbtrainers help you learn Spanish or French or Italian or German
 intro_image: "images/illustrations/pointing.svg"
